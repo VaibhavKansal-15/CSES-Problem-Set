@@ -70,7 +70,7 @@ Feel free to explore my solutions, leave feedback, and join me in this learning 
 
 ## Contact
 
-- *GitHub*: (https://github.com/VaibhavKansal-15)
+- *GitHub*: https://github.com/VaibhavKansal-15
 - *Email*: vaibhavkansal18@gmail.com
 
 Happy coding! 🚀
