@@ -16,14 +16,14 @@ As someone passionate about programming and eager to improve problem-solving ski
 
 - *Enhance my problem-solving ability*: By tackling problems of varying difficulty, I can develop a strong foundation in algorithmic thinking.
 - *Learn new concepts*: The problems cover diverse topics such as sorting, searching, dynamic programming, graph algorithms, and more.
-- *Prepare for coding competitions: Solving these problems will help me build speed and precision, which is crucial for competitive programming contests such as **Codeforces, **LeetCode, and **AtCoder*.
+- *Prepare for coding competitions: Solving these problems will help me build speed and precision, which is crucial for competitive programming contests such as Codeforces, LeetCode, and AtCoder.
 
 ## Structure of This Repository
 
 This repository contains my solutions to problems in the CSES Problem Set. The structure of the repository is as follows:
 
 - *Problem Files*: Each problem is stored in a separate file with the problem name as the filename.
-- *Programming Language: I solve the problems primarily in **C++, but other languages (like **Python* or *Java*) may also be used in certain problems.
+- *Programming Language*: I solve the problems primarily in C++, but other languages (like Python or Java) may also be used in certain problems.
   
 ## My Progress
 
