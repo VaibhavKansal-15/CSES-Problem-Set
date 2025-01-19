@@ -1,4 +1,3 @@
-//package SortingandSearching;
 import java.util.*;
 import java.io.*;
 public class RestaurantsCustomers {
@@ -22,7 +21,6 @@ public class RestaurantsCustomers {
         }
         System.out.println(maxCustomers);
     }
-
     static class Event{
         int time;
         int type;
