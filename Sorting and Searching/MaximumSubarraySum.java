@@ -11,7 +11,6 @@ public class MaximumSubarraySum {
         for(int i=0;i<n;i++){
             arr[i]=Integer.parseInt(st.nextToken());
         }
-
         long count=arr[0];
         long currentSum=arr[0];
         for(int i=1;i<n;i++){
