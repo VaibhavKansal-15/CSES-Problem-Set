@@ -6,7 +6,6 @@ public class CollectingNumbers {
         int n = sc.nextInt(); 
         int[] arr = new int[n];
         int[] pos = new int[n + 1];
-      
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
             pos[arr[i]] = i;
