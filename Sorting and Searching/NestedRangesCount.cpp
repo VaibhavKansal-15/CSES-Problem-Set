@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 typedef array<int,3> triple;
 const int maxN = 2e5+1;
