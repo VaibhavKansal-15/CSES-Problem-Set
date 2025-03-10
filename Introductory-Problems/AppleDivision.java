@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class AppleDivision {
     private static long findMinDifference(int index,long group1,long group2,long[] arr){
         if(index==arr.length){
