@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class BitStrings {
     static final int MOD=1000000007;
     public static void main(String[] args) {
@@ -8,7 +9,6 @@ public class BitStrings {
         long result=modularExp(2,n,MOD);
         System.out.println(result);
     }
-
     private static long modularExp(long base,long exp,int mod){
         long result=1;
         base=base%mod;  // Ensure base is within the modulo range
