@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class ChessBoardAndQueens {
     static int count=0;
     private static void placeQueens(int row,char[][] arr,boolean[] cols,boolean[] diag1,boolean[] diag2){
